@@ -49,7 +49,7 @@ __Description:__ In this simple assignment you are given a number and have to ma
 ---
 ### Languages
 * English - Pre-Intermediate / Intermediate
-* German - B2 / 
+* German - B2 / C1
 * Russian - Native
 * Belorussian - Native
 
