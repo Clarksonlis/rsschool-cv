@@ -14,6 +14,7 @@ I’m interested in Web Development because this occupation provides endless pos
 
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 
+
 ---
 ### Skills
 * HTML5, CSS3
